@@ -4,7 +4,7 @@
 
  - **(1) Farmářské trhy**
 
-  V poslední letech se lidé mohou těšit z rozmachu farmářských trhů, které umožňují lidem ve městech vymanit se ze stereotypu potravin nabízených ve velkých obchodních řetězcích. Tím, že se lidé přeo...
+  	V poslední letech se lidé mohou těšit z rozmachu farmářských trhů, které umožňují lidem ve městech vymanit se ze stereotypu potravin nabízených ve velkých obchodních řetězcích. Tím, že se lidé přeo...
 
  - **(2) Výuka datových struktur**
 
