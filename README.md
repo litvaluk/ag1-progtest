@@ -1,6 +1,6 @@
 # Progtest AG1 homeworks
 
-### My solutions to progtest homeworks in subject PA2, academic year 2018/19.
+### My solutions to progtest homeworks in subject AG1, academic year 2018/19.
 
  - **(1) Farmářské trhy**
 
